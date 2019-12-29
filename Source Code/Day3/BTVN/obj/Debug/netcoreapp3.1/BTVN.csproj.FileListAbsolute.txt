@@ -1,0 +1,12 @@
+C:\Users\hoang\source\repos\Day3\BTVN\obj\Debug\netcoreapp3.1\BTVN.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\Day3\BTVN\obj\Debug\netcoreapp3.1\BTVN.AssemblyInfo.cs
+C:\Users\hoang\source\repos\Day3\BTVN\bin\Debug\netcoreapp3.1\BTVN.exe
+C:\Users\hoang\source\repos\Day3\BTVN\bin\Debug\netcoreapp3.1\BTVN.deps.json
+C:\Users\hoang\source\repos\Day3\BTVN\bin\Debug\netcoreapp3.1\BTVN.runtimeconfig.json
+C:\Users\hoang\source\repos\Day3\BTVN\bin\Debug\netcoreapp3.1\BTVN.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\Day3\BTVN\bin\Debug\netcoreapp3.1\BTVN.dll
+C:\Users\hoang\source\repos\Day3\BTVN\bin\Debug\netcoreapp3.1\BTVN.pdb
+C:\Users\hoang\source\repos\Day3\BTVN\obj\Debug\netcoreapp3.1\BTVN.dll
+C:\Users\hoang\source\repos\Day3\BTVN\obj\Debug\netcoreapp3.1\BTVN.pdb
+C:\Users\hoang\source\repos\Day3\BTVN\bin\Debug\netcoreapp3.1\BTVN.xml
+C:\Users\hoang\source\repos\Day3\BTVN\obj\Debug\netcoreapp3.1\BTVN.csprojAssemblyReference.cache

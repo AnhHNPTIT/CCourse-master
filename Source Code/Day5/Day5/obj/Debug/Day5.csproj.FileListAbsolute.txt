@@ -1,0 +1,12 @@
+C:\Users\hoang\source\repos\Day5\Day5\bin\Debug\Day5.exe.config
+C:\Users\hoang\source\repos\Day5\Day5\bin\Debug\Day5.exe
+C:\Users\hoang\source\repos\Day5\Day5\bin\Debug\Day5.pdb
+C:\Users\hoang\source\repos\Day5\Day5\bin\Debug\ShapesLibrary.dll
+C:\Users\hoang\source\repos\Day5\Day5\bin\Debug\ShapesLibrary.pdb
+C:\Users\hoang\source\repos\Day5\Day5\obj\Debug\Day5.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\Day5\Day5\obj\Debug\Day5.Properties.Resources.resources
+C:\Users\hoang\source\repos\Day5\Day5\obj\Debug\Day5.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\Day5\Day5\obj\Debug\Day5.csproj.CopyComplete
+C:\Users\hoang\source\repos\Day5\Day5\obj\Debug\Day5.exe
+C:\Users\hoang\source\repos\Day5\Day5\obj\Debug\Day5.pdb
+C:\Users\hoang\source\repos\Day5\Day5\obj\Debug\Day5.MyExtensionClass.resources

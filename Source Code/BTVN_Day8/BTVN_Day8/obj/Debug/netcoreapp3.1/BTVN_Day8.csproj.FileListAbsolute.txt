@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\bin\Debug\netcoreapp3.1\BTVN_Day8.exe
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\bin\Debug\netcoreapp3.1\BTVN_Day8.deps.json
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\bin\Debug\netcoreapp3.1\BTVN_Day8.runtimeconfig.json
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\bin\Debug\netcoreapp3.1\BTVN_Day8.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\bin\Debug\netcoreapp3.1\BTVN_Day8.dll
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\bin\Debug\netcoreapp3.1\BTVN_Day8.pdb
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\obj\Debug\netcoreapp3.1\BTVN_Day8.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\obj\Debug\netcoreapp3.1\BTVN_Day8.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\obj\Debug\netcoreapp3.1\BTVN_Day8.AssemblyInfo.cs
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\obj\Debug\netcoreapp3.1\BTVN_Day8.dll
+C:\Users\hoang\source\repos\BTVN_Day8\BTVN_Day8\obj\Debug\netcoreapp3.1\BTVN_Day8.pdb

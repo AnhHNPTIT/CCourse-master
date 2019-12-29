@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\bin\Debug\netcoreapp3.1\BTVN_Day5.exe
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\bin\Debug\netcoreapp3.1\BTVN_Day5.deps.json
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\bin\Debug\netcoreapp3.1\BTVN_Day5.runtimeconfig.json
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\bin\Debug\netcoreapp3.1\BTVN_Day5.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\bin\Debug\netcoreapp3.1\BTVN_Day5.dll
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\bin\Debug\netcoreapp3.1\BTVN_Day5.pdb
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\obj\Debug\netcoreapp3.1\BTVN_Day5.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\obj\Debug\netcoreapp3.1\BTVN_Day5.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\obj\Debug\netcoreapp3.1\BTVN_Day5.AssemblyInfo.cs
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\obj\Debug\netcoreapp3.1\BTVN_Day5.dll
+C:\Users\hoang\source\repos\BTVN_Day5\BTVN_Day5\obj\Debug\netcoreapp3.1\BTVN_Day5.pdb

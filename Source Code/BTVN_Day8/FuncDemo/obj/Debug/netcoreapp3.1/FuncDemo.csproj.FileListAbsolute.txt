@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\obj\Debug\netcoreapp3.1\FuncDemo.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\obj\Debug\netcoreapp3.1\FuncDemo.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\obj\Debug\netcoreapp3.1\FuncDemo.AssemblyInfo.cs
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\bin\Debug\netcoreapp3.1\FuncDemo.exe
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\bin\Debug\netcoreapp3.1\FuncDemo.deps.json
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\bin\Debug\netcoreapp3.1\FuncDemo.runtimeconfig.json
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\bin\Debug\netcoreapp3.1\FuncDemo.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\bin\Debug\netcoreapp3.1\FuncDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\bin\Debug\netcoreapp3.1\FuncDemo.pdb
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\obj\Debug\netcoreapp3.1\FuncDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\FuncDemo\obj\Debug\netcoreapp3.1\FuncDemo.pdb

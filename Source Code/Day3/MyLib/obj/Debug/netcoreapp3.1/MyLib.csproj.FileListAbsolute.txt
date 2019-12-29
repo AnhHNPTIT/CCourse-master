@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\Day3\MyLib\bin\Debug\netcoreapp3.1\MyLib.exe
+C:\Users\hoang\source\repos\Day3\MyLib\bin\Debug\netcoreapp3.1\MyLib.deps.json
+C:\Users\hoang\source\repos\Day3\MyLib\bin\Debug\netcoreapp3.1\MyLib.runtimeconfig.json
+C:\Users\hoang\source\repos\Day3\MyLib\bin\Debug\netcoreapp3.1\MyLib.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\Day3\MyLib\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\hoang\source\repos\Day3\MyLib\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\hoang\source\repos\Day3\MyLib\bin\Debug\netcoreapp3.1\MyLib.xml
+C:\Users\hoang\source\repos\Day3\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\Day3\MyLib\obj\Debug\netcoreapp3.1\MyLib.AssemblyInfo.cs
+C:\Users\hoang\source\repos\Day3\MyLib\obj\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\hoang\source\repos\Day3\MyLib\obj\Debug\netcoreapp3.1\MyLib.pdb

@@ -1,0 +1,8 @@
+C:\Users\hoang\source\repos\Day5\ShapesLibrary\bin\Debug\netstandard2.0\ShapesLibrary.deps.json
+C:\Users\hoang\source\repos\Day5\ShapesLibrary\bin\Debug\netstandard2.0\ShapesLibrary.dll
+C:\Users\hoang\source\repos\Day5\ShapesLibrary\bin\Debug\netstandard2.0\ShapesLibrary.pdb
+C:\Users\hoang\source\repos\Day5\ShapesLibrary\obj\Debug\netstandard2.0\ShapesLibrary.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\Day5\ShapesLibrary\obj\Debug\netstandard2.0\ShapesLibrary.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\Day5\ShapesLibrary\obj\Debug\netstandard2.0\ShapesLibrary.AssemblyInfo.cs
+C:\Users\hoang\source\repos\Day5\ShapesLibrary\obj\Debug\netstandard2.0\ShapesLibrary.dll
+C:\Users\hoang\source\repos\Day5\ShapesLibrary\obj\Debug\netstandard2.0\ShapesLibrary.pdb

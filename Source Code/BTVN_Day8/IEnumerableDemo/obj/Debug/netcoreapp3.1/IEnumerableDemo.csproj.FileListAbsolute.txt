@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.exe
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.deps.json
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.runtimeconfig.json
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\bin\Debug\netcoreapp3.1\IEnumerableDemo.pdb
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.AssemblyInfo.cs
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\IEnumerableDemo\obj\Debug\netcoreapp3.1\IEnumerableDemo.pdb

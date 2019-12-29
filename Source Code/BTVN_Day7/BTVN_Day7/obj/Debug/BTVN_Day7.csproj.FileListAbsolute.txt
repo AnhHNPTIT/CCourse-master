@@ -1,0 +1,9 @@
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\bin\Debug\BTVN_Day7.exe.config
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\bin\Debug\BTVN_Day7.exe
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\bin\Debug\BTVN_Day7.pdb
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\obj\Debug\BTVN_Day7.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\obj\Debug\BTVN_Day7.Form1.resources
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\obj\Debug\BTVN_Day7.Properties.Resources.resources
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\obj\Debug\BTVN_Day7.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\obj\Debug\BTVN_Day7.exe
+C:\Users\hoang\source\repos\BTVN_Day7\BTVN_Day7\obj\Debug\BTVN_Day7.pdb

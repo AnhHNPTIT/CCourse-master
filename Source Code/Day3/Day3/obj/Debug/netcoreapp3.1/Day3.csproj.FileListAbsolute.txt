@@ -1,0 +1,16 @@
+C:\Users\hoang\source\repos\Day3\Day3\obj\Debug\netcoreapp3.1\Day3.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\Day3\Day3\obj\Debug\netcoreapp3.1\Day3.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\Day3\Day3\obj\Debug\netcoreapp3.1\Day3.AssemblyInfo.cs
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\MyLib.exe
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\Day3.exe
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\Day3.deps.json
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\Day3.runtimeconfig.json
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\Day3.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\Day3.dll
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\Day3.pdb
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\MyLib.dll
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\MyLib.pdb
+C:\Users\hoang\source\repos\Day3\Day3\bin\Debug\netcoreapp3.1\MyLib.xml
+C:\Users\hoang\source\repos\Day3\Day3\obj\Debug\netcoreapp3.1\Day3.csproj.CopyComplete
+C:\Users\hoang\source\repos\Day3\Day3\obj\Debug\netcoreapp3.1\Day3.dll
+C:\Users\hoang\source\repos\Day3\Day3\obj\Debug\netcoreapp3.1\Day3.pdb

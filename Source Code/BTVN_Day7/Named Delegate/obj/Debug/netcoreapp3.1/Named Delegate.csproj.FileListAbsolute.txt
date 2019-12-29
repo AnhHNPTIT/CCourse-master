@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\bin\Debug\netcoreapp3.1\Named Delegate.exe
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\bin\Debug\netcoreapp3.1\Named Delegate.deps.json
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\bin\Debug\netcoreapp3.1\Named Delegate.runtimeconfig.json
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\bin\Debug\netcoreapp3.1\Named Delegate.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\bin\Debug\netcoreapp3.1\Named Delegate.dll
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\bin\Debug\netcoreapp3.1\Named Delegate.pdb
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\obj\Debug\netcoreapp3.1\Named Delegate.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\obj\Debug\netcoreapp3.1\Named Delegate.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\obj\Debug\netcoreapp3.1\Named Delegate.AssemblyInfo.cs
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\obj\Debug\netcoreapp3.1\Named Delegate.dll
+C:\Users\hoang\source\repos\BTVN_Day7\Named Delegate\obj\Debug\netcoreapp3.1\Named Delegate.pdb

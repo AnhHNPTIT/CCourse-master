@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\bin\Debug\DemoUnitOfWord.exe.config
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\bin\Debug\DemoUnitOfWord.exe
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\bin\Debug\DemoUnitOfWord.pdb
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\bin\Debug\EntityFramework.dll
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\bin\Debug\EntityFramework.xml
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\obj\Debug\DemoUnitOfWord.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\obj\Debug\DemoUnitOfWord.Form1.resources
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\obj\Debug\DemoUnitOfWord.Properties.Resources.resources
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\obj\Debug\DemoUnitOfWord.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\obj\Debug\DemoUnitOfWord.csproj.CopyComplete
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\obj\Debug\DemoUnitOfWord.exe
+C:\Users\hoang\source\repos\DemoUnitOfWord\DemoUnitOfWord\obj\Debug\DemoUnitOfWord.pdb

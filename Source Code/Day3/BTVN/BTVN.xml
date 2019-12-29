@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BTVN</name>
+    </assembly>
+    <members>
+        <member name="T:BTVN.Program">
+            <summary>
+            This class is used to perform arthmatic operations: ReadFile, CountFoundString
+            </summary>
+        </member>
+        <member name="M:BTVN.Program.ReadFile(System.String)">
+            <summary>
+            This function is used to read a file
+            </summary>
+            <param name="path">The path of file</param>
+            <returns>Returns text in file</returns>
+            <example>
+            <code>
+            string path = @"test.txt";
+            FileInfo file = new FileInfo(path);
+            if(isFoundFile(file))
+            {
+                Console.WriteLine("Not Found File!");
+            }
+            </code>
+            </example>
+            <exception cref="T:System.IO.FileNotFoundException">Thrown when not found file</exception> 
+        </member>
+    </members>
+</doc>

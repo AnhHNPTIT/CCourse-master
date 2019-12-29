@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BTVN_Day5/1.0.0": {
+        "runtime": {
+          "BTVN_Day5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTVN_Day5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

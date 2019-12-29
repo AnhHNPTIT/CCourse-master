@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\bin\Debug\netcoreapp3.1\PredicateDemo.exe
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\bin\Debug\netcoreapp3.1\PredicateDemo.deps.json
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\bin\Debug\netcoreapp3.1\PredicateDemo.runtimeconfig.json
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\bin\Debug\netcoreapp3.1\PredicateDemo.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\bin\Debug\netcoreapp3.1\PredicateDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\bin\Debug\netcoreapp3.1\PredicateDemo.pdb
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\obj\Debug\netcoreapp3.1\PredicateDemo.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\obj\Debug\netcoreapp3.1\PredicateDemo.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\obj\Debug\netcoreapp3.1\PredicateDemo.AssemblyInfo.cs
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\obj\Debug\netcoreapp3.1\PredicateDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\PredicateDemo\obj\Debug\netcoreapp3.1\PredicateDemo.pdb

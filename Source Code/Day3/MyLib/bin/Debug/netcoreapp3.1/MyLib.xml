@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyLib</name>
+    </assembly>
+    <members>
+        <member name="T:MyLib.Math">
+            <summary>
+            This class is used to perform arthmatic operations: Sum, Substract.
+            </summary>
+        </member>
+        <member name="M:MyLib.Math.Sum(System.Int32,System.Int32)">
+            <summary>
+            This function is used to add 2 numbers
+            </summary>
+            <param name="a">The first interger</param>
+            <param name="b">The second integer</param>
+            <returns>Returns sum of 2 integers</returns>
+        </member>
+    </members>
+</doc>

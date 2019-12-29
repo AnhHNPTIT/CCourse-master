@@ -1,0 +1,10 @@
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\bin\Debug\netcoreapp3.1\ActionDemo.exe
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\bin\Debug\netcoreapp3.1\ActionDemo.deps.json
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\bin\Debug\netcoreapp3.1\ActionDemo.runtimeconfig.json
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\bin\Debug\netcoreapp3.1\ActionDemo.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\bin\Debug\netcoreapp3.1\ActionDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\bin\Debug\netcoreapp3.1\ActionDemo.pdb
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\obj\Debug\netcoreapp3.1\ActionDemo.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\obj\Debug\netcoreapp3.1\ActionDemo.AssemblyInfo.cs
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\obj\Debug\netcoreapp3.1\ActionDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\ActionDemo\obj\Debug\netcoreapp3.1\ActionDemo.pdb

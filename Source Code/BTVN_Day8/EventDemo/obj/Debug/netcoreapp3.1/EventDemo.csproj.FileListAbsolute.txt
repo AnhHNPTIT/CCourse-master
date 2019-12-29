@@ -1,0 +1,11 @@
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.exe
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.deps.json
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.runtimeconfig.json
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\bin\Debug\netcoreapp3.1\EventDemo.pdb
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.AssemblyInfo.cs
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.dll
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.pdb
+C:\Users\hoang\source\repos\BTVN_Day8\EventDemo\obj\Debug\netcoreapp3.1\EventDemo.csprojAssemblyReference.cache
