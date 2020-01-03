@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hoang\\source\\repos\\BTVN_Day8\\ActionDemo\\ActionDemo.csproj": {}
+    "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\BTVN_Day8\\ActionDemo\\ActionDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hoang\\source\\repos\\BTVN_Day8\\ActionDemo\\ActionDemo.csproj": {
+    "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\BTVN_Day8\\ActionDemo\\ActionDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoang\\source\\repos\\BTVN_Day8\\ActionDemo\\ActionDemo.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\BTVN_Day8\\ActionDemo\\ActionDemo.csproj",
         "projectName": "ActionDemo",
-        "projectPath": "C:\\Users\\hoang\\source\\repos\\BTVN_Day8\\ActionDemo\\ActionDemo.csproj",
+        "projectPath": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\BTVN_Day8\\ActionDemo\\ActionDemo.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoang\\source\\repos\\BTVN_Day8\\ActionDemo\\obj\\",
+        "outputPath": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\BTVN_Day8\\ActionDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

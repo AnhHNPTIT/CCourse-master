@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hoang\\source\\repos\\Day8\\Day8\\Day8.csproj",
+      "projectUniqueName": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\Day8\\Day8\\Day8.csproj",
       "projectName": "Day8",
-      "projectPath": "C:\\Users\\hoang\\source\\repos\\Day8\\Day8\\Day8.csproj",
+      "projectPath": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\Day8\\Day8\\Day8.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hoang\\source\\repos\\Day8\\Day8\\obj\\",
+      "outputPath": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\Day8\\Day8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

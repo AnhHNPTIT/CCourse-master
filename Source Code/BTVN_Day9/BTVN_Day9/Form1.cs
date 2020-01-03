@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project
+namespace BTVN_Day9
 {
     public partial class Form1 : Form
     {
@@ -17,9 +17,10 @@ namespace Project
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void btnCount_Click(object sender, EventArgs e)
         {
-
+            string str = txtString.Text;
+            labelResult.Text = StringUtil.CountDigitInString(str).ToString();
         }
     }
 }

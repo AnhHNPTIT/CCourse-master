@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hoang\\source\\repos\\BTVN_Day8\\IEnumerableDemo\\IEnumerableDemo.csproj",
+      "projectUniqueName": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\BTVN_Day8\\IEnumerableDemo\\IEnumerableDemo.csproj",
       "projectName": "IEnumerableDemo",
-      "projectPath": "C:\\Users\\hoang\\source\\repos\\BTVN_Day8\\IEnumerableDemo\\IEnumerableDemo.csproj",
+      "projectPath": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\BTVN_Day8\\IEnumerableDemo\\IEnumerableDemo.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hoang\\source\\repos\\BTVN_Day8\\IEnumerableDemo\\obj\\",
+      "outputPath": "C:\\Users\\hoang\\source\\repos\\CCourse-master\\Source Code\\BTVN_Day8\\IEnumerableDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
