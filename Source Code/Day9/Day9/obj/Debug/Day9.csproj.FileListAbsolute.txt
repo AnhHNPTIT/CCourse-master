@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\bin\Debug\Day9.exe.config
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\bin\Debug\Day9.exe
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\bin\Debug\Day9.pdb
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\obj\Debug\Day9.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\obj\Debug\Day9.Form1.resources
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\obj\Debug\Day9.Properties.Resources.resources
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\obj\Debug\Day9.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\obj\Debug\Day9.exe
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\obj\Debug\Day9.pdb
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\bin\Debug\EntityFramework.dll
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\bin\Debug\EntityFramework.xml
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Day9\Day9\obj\Debug\Day9.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\bin\Debug\BTVN_Day9.exe.config
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\bin\Debug\BTVN_Day9.exe
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\bin\Debug\BTVN_Day9.pdb
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\obj\Debug\BTVN_Day9.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\obj\Debug\BTVN_Day9.Form1.resources
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\obj\Debug\BTVN_Day9.Properties.Resources.resources
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\obj\Debug\BTVN_Day9.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\obj\Debug\BTVN_Day9.exe
+C:\Users\hoang\source\repos\CCourse-master\Source Code\BTVN_Day9\BTVN_Day9\obj\Debug\BTVN_Day9.pdb

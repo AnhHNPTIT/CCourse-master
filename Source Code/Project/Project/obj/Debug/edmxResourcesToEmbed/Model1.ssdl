@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseID" />
+    </Key>
+    <Property Name="CourseID" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CourseName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Credit" Type="nvarchar" MaxLength="50" />
+    <Property Name="FirstDateCreated" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="GradeComponent">
+    <Key>
+      <PropertyRef Name="StudentStudy" />
+      <PropertyRef Name="SubGradeName" />
+    </Key>
+    <Property Name="StudentStudy" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="SubGradeName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Grade" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Lecturer">
+    <Key>
+      <PropertyRef Name="LecturerID" />
+    </Key>
+    <Property Name="LecturerID" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="StudentID" />
+    </Key>
+    <Property Name="StudentID" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+    <Property Name="DOB" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Major" Type="nvarchar" MaxLength="50" />
+    <Property Name="Programe" Type="nvarchar" MaxLength="50" />
+    <Property Name="Intake" Type="bigint" />
+    <Property Name="Class" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="StudentStudy">
+    <Key>
+      <PropertyRef Name="StudentStudyID" />
+    </Key>
+    <Property Name="StudentStudyID" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="StudentID" Type="nvarchar" MaxLength="50" />
+    <Property Name="LecturerID" Type="nvarchar" MaxLength="50" />
+    <Property Name="YearStudyID" Type="nvarchar" MaxLength="50" />
+    <Property Name="CourseID" Type="nvarchar" MaxLength="50" />
+    <Property Name="GradeNumber" Type="bigint" />
+    <Property Name="GradeCharacter" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="YearStudy">
+    <Key>
+      <PropertyRef Name="YearStudyID" />
+    </Key>
+    <Property Name="Year" Type="bigint" />
+    <Property Name="Semester" Type="nvarchar" MaxLength="50" />
+    <Property Name="YearStudyID" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ProjectModelStoreContainer">
+    <EntitySet Name="Course" EntityType="Self.Course" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GradeComponent" EntityType="Self.GradeComponent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Lecturer" EntityType="Self.Lecturer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StudentStudy" EntityType="Self.StudentStudy" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="YearStudy" EntityType="Self.YearStudy" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
