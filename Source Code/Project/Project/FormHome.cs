@@ -31,8 +31,8 @@ namespace Project
 
         private void btnManagerStudentStudy_Click(object sender, EventArgs e)
         {
-            FormStudentStudy formStudentStudy = new FormStudentStudy();
-            formStudentStudy.ShowDialog();
+            FormMarkOfStudent formMarkOfStudent = new FormMarkOfStudent();
+            formMarkOfStudent.ShowDialog();
         }
     }
 }

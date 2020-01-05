@@ -90,6 +90,7 @@ namespace Project
 
         private void dataGridView1_RowEnter(object sender, DataGridViewCellEventArgs e)
         {
+            ResetValue();
             if (btnInsert.Enabled == false)
             {
                 MessageBox.Show("Now in new addition mode!", "Thông báo");

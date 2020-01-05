@@ -15,4 +15,4 @@ C:\Users\hoang\source\repos\CCourse-master\Source Code\Project\Project\obj\Debug
 C:\Users\hoang\source\repos\CCourse-master\Source Code\Project\Project\obj\Debug\Project.FormStudent.resources
 C:\Users\hoang\source\repos\CCourse-master\Source Code\Project\Project\obj\Debug\Project.csproj.ResolveComReference.cache
 C:\Users\hoang\source\repos\CCourse-master\Source Code\Project\Project\obj\Debug\Project.FormHome.resources
-C:\Users\hoang\source\repos\CCourse-master\Source Code\Project\Project\obj\Debug\Project.FormStudentStudy.resources
+C:\Users\hoang\source\repos\CCourse-master\Source Code\Project\Project\obj\Debug\Project.FormMarkOfStudent.resources

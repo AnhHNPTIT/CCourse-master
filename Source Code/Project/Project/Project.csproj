@@ -72,17 +72,17 @@
     <Compile Include="FormHome.Designer.cs">
       <DependentUpon>FormHome.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormMarkOfStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMarkOfStudent.Designer.cs">
+      <DependentUpon>FormMarkOfStudent.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormStudent.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormStudent.Designer.cs">
       <DependentUpon>FormStudent.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormStudentStudy.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormStudentStudy.Designer.cs">
-      <DependentUpon>FormStudentStudy.cs</DependentUpon>
     </Compile>
     <Compile Include="GradeComponent.cs">
       <DependentUpon>Model1.tt</DependentUpon>
@@ -122,11 +122,11 @@
     <EmbeddedResource Include="FormHome.resx">
       <DependentUpon>FormHome.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormMarkOfStudent.resx">
+      <DependentUpon>FormMarkOfStudent.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormStudent.resx">
       <DependentUpon>FormStudent.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormStudentStudy.resx">
-      <DependentUpon>FormStudentStudy.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
